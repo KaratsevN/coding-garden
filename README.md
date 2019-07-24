@@ -1,2 +1,1 @@
-# coding-garden
-Summer, C++, game.
+# Don Quixote Game
